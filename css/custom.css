@@ -1,0 +1,47 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+
+body {
+    background-image: url(../images/gems_white_background.jpg);
+}
+
+
+ /*  body {
+  background-color: #000 !important;
+}   */
+
+
+ .jumbotron {
+  
+ 	/* background-image: url(../images/crystal_collecter_header_one.png);*/
+   	margin-top: 20px;
+    background-color: #337ab7;
+    color: white;
+   
+}
+
+
+/* style.css */
+ {
+   font-size: 20px;
+   line-height: 2;
+}
+
+
+ /* .panel > .panel-heading {
+    background-image: none;
+    background-color: blue;
+    color: white;
+
+}
+*/
+
+
+ /*
+.panel-primary {
+     background-color: #194719 !important;
+}
+
+*/
